@@ -25,7 +25,7 @@ cd BTCGPU
 ```
 Start the Testnet:
 ```
-./src/bitcoingold-cli -testnet
+./src/bitcoingoldd -testnet
 ```
 
 This will give you a running node on testnet - and your node will verify testnet
